@@ -1,0 +1,31 @@
+_repo: American-Notes_977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+- GITenberg
+tableOfContents: At the Golden Gate -- American politics -- American salmon -- The
+  Yellowstone -- Chicago -- The American army -- America's defenceless coasts.
+title: American Notes
+url: http://www.gutenberg.org/ebooks/977
